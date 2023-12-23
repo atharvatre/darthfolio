@@ -241,6 +241,17 @@ const bigProjects = {
           url: "https://markupwiz.netlify.app/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/filevaultlogo (2).png"),
+      projectName: "FileVault",
+      projectDesc: "A file storage and sharing web app",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://file-vault-eta.vercel.app/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
