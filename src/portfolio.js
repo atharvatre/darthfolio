@@ -133,7 +133,7 @@ const educationInfo = {
       schoolName: "Vellore Institute of Technology",
       logo: require("./assets/images/Vellore_Institute_of_Technology_seal_2017.svg.png"),
       subHeader: "Bachelor of Technology in Computer Science",
-      duration: "September 20202 - Aug 2024",
+      duration: "September 2020 - Aug 2024",
       // desc: "Participated in the research of XXX and published 3 papers.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
