@@ -225,8 +225,8 @@ const bigProjects = {
       projectDesc: "A full-scale ecommerce platform for Computer parts and accessories.",
       footerLink: [
         {
-          name: "Visit Project",
-          url: "https://github.com/atharvatre/CyberShopper"
+          name: "Visit Website",
+          url: "https://cybershopper.netlify.app/"
         }
         //  you can add extra buttons here.
       ]
