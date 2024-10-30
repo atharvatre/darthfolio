@@ -208,10 +208,10 @@ const techStack = {
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
-// const openSource = {
-//   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-//   display: true // Set false to hide this section, defaults to true
-// };
+const openSource = {
+  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  display: true // Set false to hide this section, defaults to true
+};
 
 // Some big projects you have worked on
 
@@ -379,7 +379,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91-7649010811",
-  email_address: "darthcoder18@outlook.com"
+  email_address: "atharv.atreprof@gmail.com"
 };
 
 // // Twitter Section
@@ -400,7 +400,7 @@ export {
   educationInfo,
   techStack,
   //workExperiences,
-  openSource,
+ // openSource,
   bigProjects,
   achievementSection,
   //blogSection,
