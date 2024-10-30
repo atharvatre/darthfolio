@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/atharvatre",
   linkedin: "https://www.linkedin.com/in/atharv-atre-648b98220/",
-  gmail: "darthcoder18@outlook.com",
+  gmail: "atharv.atreprof@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
@@ -208,10 +208,10 @@ const techStack = {
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
-const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
-};
+// const openSource = {
+//   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+//   display: true // Set false to hide this section, defaults to true
+// };
 
 // Some big projects you have worked on
 
